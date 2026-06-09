@@ -4,7 +4,7 @@
 
 # LobeHub
 
-LobeHub organizes your agents into 7×24 operation.
+LobeHub organizes your agents into 7×24 operation..
 
 It hires, schedules, reports on your entire AI team.
 
